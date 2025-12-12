@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" role="img" aria-labelledby="title desc">
+  <title id="title">Adminz Automation Platform Logo</title>
+  <desc id="desc">Futuristic wordmark and icon blending circuit-inspired geometry and gradient accents.</desc>
+  <defs>
+    <linearGradient id="adminzGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#60a5ff"/>
+      <stop offset="50%" stop-color="#19d4ff"/>
+      <stop offset="100%" stop-color="#b0e3ff"/>
+    </linearGradient>
+    <linearGradient id="adminzSilver" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#94a3b8"/>
+    </linearGradient>
+    <clipPath id="nodeClip">
+      <circle cx="95" cy="110" r="82"/>
+    </clipPath>
+  </defs>
+  <rect width="640" height="220" fill="#0b1220" rx="24" ry="24"/>
+  <g transform="translate(30 18)">
+    <g clip-path="url(#nodeClip)" transform="translate(0 0)">
+      <rect x="15" y="28" width="160" height="164" fill="#0f172a" opacity="0.7"/>
+      <path d="M42 60h40l28 28h52l28-28h40" fill="none" stroke="url(#adminzGradient)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="62" cy="60" r="14" fill="#1e293b" stroke="url(#adminzGradient)" stroke-width="6"/>
+      <circle cx="156" cy="60" r="14" fill="#1e293b" stroke="url(#adminzGradient)" stroke-width="6"/>
+      <circle cx="110" cy="152" r="18" fill="#1e293b" stroke="url(#adminzGradient)" stroke-width="8"/>
+      <path d="M110 90v44" stroke="url(#adminzSilver)" stroke-width="8" stroke-linecap="round"/>
+      <path d="M78 120h64" stroke="url(#adminzGradient)" stroke-width="8" stroke-linecap="round"/>
+      <path d="M42 152h28M150 152h28" stroke="url(#adminzGradient)" stroke-width="8" stroke-linecap="round"/>
+    </g>
+    <circle cx="95" cy="110" r="86" fill="none" stroke="url(#adminzGradient)" stroke-width="6" opacity="0.85"/>
+    <circle cx="95" cy="110" r="98" fill="none" stroke="rgba(96,165,255,0.25)" stroke-width="4" stroke-dasharray="12 14"/>
+    <circle cx="160" cy="44" r="8" fill="url(#adminzGradient)"/>
+    <circle cx="36" cy="190" r="6" fill="#1d4ed8" opacity="0.85"/>
+  </g>
+  <g transform="translate(240 120)">
+    <path d="M0-44h32l14 32 14-32h32v88h-28v-44l-18 34h-4l-18-34v44H0z" fill="url(#adminzSilver)"/>
+    <path d="M138-44c24 0 42 18 42 44s-18 44-42 44-42-18-42-44 18-44 42-44zm0 24c-8 0-14 8-14 20s6 20 14 20 14-8 14-20-6-20-14-20z" fill="url(#adminzSilver)"/>
+    <path d="M200-44h30l22 32v-32h28v88h-28l-24-36v36h-28z" fill="url(#adminzSilver)"/>
+    <path d="M304-44h76v22h-48v12h38v22h-38v10h48v22h-76z" fill="url(#adminzSilver)"/>
+    <path d="M398-44h32l30 88h-30l-4-12h-28l-4 12h-30zm16 24-8 26h16z" fill="url(#adminzSilver)"/>
+    <path d="M476-44h32l14 32 14-32h32v88h-28v-44l-18 34h-4l-18-34v44h-28z" fill="url(#adminzGradient)"/>
+  </g>
+  <g transform="translate(240 188)">
+    <rect width="180" height="6" rx="3" fill="url(#adminzGradient)" opacity="0.4"/>
+  </g>
+</svg>
+
+
+

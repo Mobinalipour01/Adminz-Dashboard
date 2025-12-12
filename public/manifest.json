@@ -1,0 +1,24 @@
+{
+  "name": "Adminz Automation Console",
+  "short_name": "Adminz",
+  "description": "AWS-powered automation companion optimized for mobile home-screen use.",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/adminz-logo.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["productivity", "business"],
+  "screenshots": []
+}
+
